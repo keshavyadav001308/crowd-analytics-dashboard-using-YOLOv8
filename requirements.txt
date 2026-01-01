@@ -1,4 +1,6 @@
-streamlit
-ultralytics
-opencv-python
+streamlit>=1.30
+ultralytics>=8.0.0
+opencv-python-headless
 numpy
+torch
+torchvision
